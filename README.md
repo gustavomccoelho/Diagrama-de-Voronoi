@@ -20,7 +20,7 @@ A implementação do algoritmo descrito foi implementada em linguagem Python e e
 
 A variação do tempo de execução de acordo com o tamanho da entrada pode ser vista abaixo:
 
-![runtime](/pictures/runtime.jpg)
+![runtime](/pictures/runtime.png)
 
 ## Conclusão
 
